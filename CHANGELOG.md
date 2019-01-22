@@ -1,3 +1,7 @@
+# 2.0.0
+- Updated license and authorship info
+- Rename npm package to `sd-ct-oauth-plugin`
+
 # 1.8.14
 - Add support to per-app default redirect on email confirmation
 
