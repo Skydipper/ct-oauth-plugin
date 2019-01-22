@@ -1,3 +1,6 @@
+# 2.0.4
+- Returns `id`, `name` and `photo` user's attributes.
+
 # 2.0.3
 - Add name and photo to user data response
 - Fix issue with serializing user ids on response
