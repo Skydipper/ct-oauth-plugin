@@ -1,5 +1,11 @@
+<<<<<<< HEAD
 # 1.8.15
 - Fix issue where token was requested but not provided on local login
+=======
+# 2.0.0
+- Updated license and authorship info
+- Rename npm package to `sd-ct-oauth-plugin`
+>>>>>>> Rename npm package; update authorship info and license
 
 # 1.8.14
 - Add support to per-app default redirect on email confirmation

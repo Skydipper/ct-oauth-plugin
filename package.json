@@ -1,14 +1,37 @@
 {
-  "name": "ct-oauth-plugin",
-  "version": "1.8.15",
-  "description": "OAuth plugin for Control Tower",
+  "name": "sd-ct-oauth-plugin",
+  "version": "2.0.0",
+  "description": "OAuth plugin for Control Tower - Skydipper edition",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: Tests are bundled in Control Tower\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": [
+    "Control Tower",
+    "OAuth",
+    "microservice"
+  ],
+  "author": {
+    "name": "Vizzuality",
+    "email": "hello@vizzuality.com",
+    "url": "http://vizzuality.com/"
+  },
+  "contributors": [
+    {
+      "name": "Raul Requero"
+    },
+    {
+      "name": "Sergio Gordillo"
+    },
+    {
+      "name": "Enrique Cornejo"
+    },
+    {
+      "name": "Tiago Garcia",
+      "url": "https://github.com/tiagojsag"
+    }
+  ],
+  "license": "MIT",
   "dependencies": {
     "bcrypt": "^3.0.0",
     "bluebird": "^3.4.1",
@@ -22,8 +45,7 @@
     "mongoose": "^4.5.3",
     "passport-facebook": "^2.1.1",
     "passport-facebook-token": "3.3.0",
-    "passport-google-oauth": "^1.0.0",
-    "passport-google-plus-token": "^2.1.0",
+    "passport-google-oauth20": "^1.0.0",
     "passport-http": "^0.3.0",
     "passport-local": "^1.0.0",
     "passport-twitter": "^1.0.4",
