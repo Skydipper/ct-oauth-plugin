@@ -1,3 +1,6 @@
+# 2.0.2
+- Fix regression on passport-google-plus-token dependency 
+
 # 2.0.1
 - Fix regression on passport-google-oauth dependency 
 
