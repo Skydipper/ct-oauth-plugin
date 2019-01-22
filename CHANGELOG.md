@@ -1,3 +1,7 @@
+# 2.0.3
+- Add name and photo to user data response
+- Fix issue with serializing user ids on response
+
 # 2.0.2
 - Fix regression on passport-google-plus-token dependency 
 

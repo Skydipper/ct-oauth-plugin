@@ -1,6 +1,6 @@
 {
   "name": "sd-ct-oauth-plugin",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "description": "OAuth plugin for Control Tower - Skydipper edition",
   "main": "index.js",
   "scripts": {
