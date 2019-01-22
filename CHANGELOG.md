@@ -1,3 +1,6 @@
+# 2.0.1
+- Fix regression on passport-google-oauth dependency 
+
 # 2.0.0
 - Updated license and authorship info
 - Rename npm package to `sd-ct-oauth-plugin`
