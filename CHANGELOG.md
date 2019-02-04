@@ -1,3 +1,6 @@
+# 2.0.5
+- Add support for filtering user listing by name, provider, email address or role.
+
 # 2.0.4
 - Returns `id`, `name` and `photo` user's attributes.
 
