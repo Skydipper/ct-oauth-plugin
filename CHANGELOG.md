@@ -1,3 +1,8 @@
+# 2.0.6
+- Now user serializer returns `provider` and `userToken` (if exists).
+- Now `updateUserMe` method revokes user's token and creates a new one.
+- Now `updateUserMe` method returns the user object serialized.
+
 # 2.0.5
 - Add support for filtering user listing by name, provider, email address or role.
 
