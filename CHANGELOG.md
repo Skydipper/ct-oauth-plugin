@@ -1,3 +1,6 @@
+# 2.0.6
+- Add support for deleting users.
+
 # 2.0.5
 - Add support for filtering user listing by name, provider, email address or role.
 
