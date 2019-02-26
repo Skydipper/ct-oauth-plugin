@@ -1,3 +1,6 @@
+# 2.0.7
+- Remove calls to deprecated Google+ endpoints.
+
 # 2.0.6
 - Add support for deleting users.
 
