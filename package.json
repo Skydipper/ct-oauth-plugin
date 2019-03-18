@@ -1,6 +1,6 @@
 {
   "name": "sd-ct-oauth-plugin",
-  "version": "2.0.7",
+  "version": "2.0.8",
   "description": "OAuth plugin for Control Tower - Skydipper edition",
   "main": "index.js",
   "scripts": {
@@ -57,7 +57,7 @@
     "eslint-plugin-import": "^2.16.0",
     "eslint-plugin-jsx-a11y": "^6.2.1",
     "eslint-plugin-react": "^7.12.4",
-    "eslint": "^5.13.0",
+    "eslint": "^5.15.1",
     "eslint-config-airbnb": "^17.1.0"
   }
 }

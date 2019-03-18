@@ -1,3 +1,6 @@
+# 2.0.8
+- Fix issues affecting usage without 3rd party auth configuration.
+
 # 2.0.7
 - Remove calls to deprecated Google+ endpoints.
 
